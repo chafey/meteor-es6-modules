@@ -5,4 +5,5 @@ Requires Meteor 1.3
 How to run:
 
 > cd app
+
 > PACKAGE_DIRS="../packages" meteor
